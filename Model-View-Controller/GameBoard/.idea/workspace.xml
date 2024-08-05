@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60e08ede-5a69-40ad-9ec2-d88ac0e00968" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G2c823WSJCSYQOM55s50p9M7By" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/elrod/OneDrive/Desktop/Assignments/CPSC/cpsc2150/TicTacToeGui&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.GameBoard">
+    <configuration name="GameBoard" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cpsc2150.extendedTicTacToe.GameScreen" />
+      <module name="GameBoard" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameBoard" type="JUnit" factoryName="JUnit">
+      <module name="GameBoard" />
+      <option name="PACKAGE_NAME" value="cpsc2150.extendedTicTacToe.models" />
+      <option name="MAIN_CLASS_NAME" value="cpsc2150.extendedTicTacToe.models.TestGameBoard" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameBoardMem" type="JUnit" factoryName="JUnit">
+      <module name="GameBoard" />
+      <option name="PACKAGE_NAME" value="cpsc2150.extendedTicTacToe.models" />
+      <option name="MAIN_CLASS_NAME" value="cpsc2150.extendedTicTacToe.models.TestGameBoardMem" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GameBoard" />
+      <item itemvalue="JUnit.TestGameBoard" />
+      <item itemvalue="JUnit.TestGameBoardMem" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60e08ede-5a69-40ad-9ec2-d88ac0e00968" name="Changes" comment="" />
+      <created>1665589956925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665589956925</updated>
+      <workItem from="1665589957942" duration="3493000" />
+      <workItem from="1665594988517" duration="90000" />
+      <workItem from="1665598903172" duration="5376000" />
+      <workItem from="1665662621087" duration="8052000" />
+      <workItem from="1665681511507" duration="2950000" />
+      <workItem from="1665971442096" duration="90000" />
+      <workItem from="1666016582671" duration="4584000" />
+      <workItem from="1666040051026" duration="8000" />
+      <workItem from="1666200420915" duration="4274000" />
+      <workItem from="1666207574445" duration="637000" />
+      <workItem from="1666235482972" duration="1274000" />
+      <workItem from="1666892138382" duration="1446000" />
+      <workItem from="1667069132211" duration="2360000" />
+      <workItem from="1667072300745" duration="10108000" />
+      <workItem from="1667133386700" duration="383000" />
+      <workItem from="1667134869441" duration="6818000" />
+      <workItem from="1667229162642" duration="1862000" />
+      <workItem from="1667246475038" duration="5860000" />
+      <workItem from="1667307640225" duration="101000" />
+      <workItem from="1667311755813" duration="449000" />
+      <workItem from="1667328700001" duration="2597000" />
+      <workItem from="1667405021210" duration="1187000" />
+      <workItem from="1667406411921" duration="979000" />
+      <workItem from="1667477623343" duration="225000" />
+      <workItem from="1667498115426" duration="28000" />
+      <workItem from="1667498241738" duration="1173000" />
+      <workItem from="1667528803713" duration="2120000" />
+      <workItem from="1667998148990" duration="19000" />
+      <workItem from="1667998532460" duration="562000" />
+      <workItem from="1668007772501" duration="327000" />
+      <workItem from="1668008223591" duration="384000" />
+      <workItem from="1668008956657" duration="9000" />
+      <workItem from="1668027034071" duration="2595000" />
+      <workItem from="1668186125483" duration="1198000" />
+      <workItem from="1668187690573" duration="2254000" />
+      <workItem from="1668358745392" duration="1255000" />
+      <workItem from="1668634531423" duration="1445000" />
+      <workItem from="1668711222460" duration="1062000" />
+      <workItem from="1668729606082" duration="1269000" />
+      <workItem from="1668890760076" duration="92000" />
+      <workItem from="1668891022561" duration="37000" />
+      <workItem from="1668904975920" duration="797000" />
+      <workItem from="1668962205158" duration="611000" />
+      <workItem from="1668964354925" duration="4527000" />
+      <workItem from="1668971489401" duration="2140000" />
+      <workItem from="1668997758473" duration="708000" />
+      <workItem from="1669003237051" duration="600000" />
+      <workItem from="1669554937896" duration="15000" />
+      <workItem from="1669648802915" duration="944000" />
+      <workItem from="1669756823169" duration="1294000" />
+      <workItem from="1669821241293" duration="2309000" />
+      <workItem from="1669844742114" duration="10000" />
+      <workItem from="1669934629059" duration="821000" />
+      <workItem from="1670028463961" duration="13000" />
+      <workItem from="1670098919611" duration="7000" />
+      <workItem from="1670267342418" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
